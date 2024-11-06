@@ -1,0 +1,9 @@
+tmp/
+.DS_Store
+.python-version
+__pycache__/
+.env
+logs/
+*.csv
+credentials/
+data/
